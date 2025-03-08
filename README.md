@@ -15,15 +15,15 @@ Jobs Innovators stands out by offering:
 
 ## 🛠️ WordPress Setup  
 - **CMS:** WordPress  
-- **Theme:** (Specify your theme name here — e.g., Astra, GeneratePress, Custom)  
+- **Theme:** (Neve)  
 - **Plugins:**  
-    - **Job Manager:** (e.g., WP Job Manager)  
-    - **Online Assessment:** (e.g., Tutor LMS, Quiz and Survey Master)  
-    - **Forms:** (e.g., WPForms, Gravity Forms)  
-    - **SEO:** (e.g., Rank Math, Yoast SEO)  
-    - **Caching:** (e.g., WP Rocket, LiteSpeed Cache)  
-- **Page Builder:** (e.g., Elementor, Gutenberg, Divi)  
-- **Hosting:** (e.g., Cloudways, Bluehost, Hostinger)  
+    - **Job Manager:** (WP Job Manager)  
+    - **Online Assessment:** ( Tutor LMS, Quiz and Survey Master)  
+    - **Forms:** (Forminator)  
+    - **SEO:** (Rank Math)  
+    - **Caching:** (LiteSpeed Cache)  
+- **Page Builder:** (Elementor)  
+- **Hosting:** (Hostinger)  
 
 ---
 
